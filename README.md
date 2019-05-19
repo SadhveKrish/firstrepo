@@ -1,2 +1,4 @@
 # firstrepo
-This is the readme file in the first new branch created in the first repo.
+
+This is the readme file .
+This is the first repository created to test, learn and understand how git works, under the master branch
