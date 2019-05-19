@@ -1,0 +1,21 @@
+body{
+  background-image:url(background.jpg);
+  background-repeat:no-repeat;
+}
+
+h4{
+    color:orange;
+    font-family: comic sans ms;
+    font-size:250%;
+    border: 3px;
+}
+
+#ID001{
+    border: 2px;
+    border-color: solid-blue;
+}
+
+.ColourMe{
+     color:Red;
+     background-color:yellow;
+}
